@@ -1,0 +1,1 @@
+This function finds the longest possible alternating string made from two distinct characters by removing all others and checking every pair for strict alternation.

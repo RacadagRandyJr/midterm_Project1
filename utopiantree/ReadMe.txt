@@ -1,0 +1,1 @@
+This function calculates the height of a Utopian Tree after n growth cycles by alternating between doubling its height during spring cycles (odd-numbered) and increasing it by one during summer cycles (even-numbered).

@@ -1,0 +1,1 @@
+This function determines whether each number in the queries array can be formed as the weight of a uniform substring in the input string s, by calculating and storing all possible weights of consecutive identical characters and checking for matches.
